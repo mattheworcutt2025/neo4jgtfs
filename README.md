@@ -10,7 +10,7 @@ This project is part of the **Public Transit Data Platform** final project. This
   - **Neo4j**: Graph database for modeling stops and connections
   - **HTML/CSS/JS**: Front-end interface with D3.js visualizations
   - **D3.js**: Force-directed graph visualization
-  - **Python (optional)**: For integration, data cleaning, and running Cypher queries
+  - **Python**: For integration, data cleaning, and running Cypher queries
 
 ## Folder Structure
 
