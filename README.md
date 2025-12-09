@@ -71,7 +71,7 @@ This project is part of the **Public Transit Data Platform** final project. This
 
 ## Authors
 
-- [Your Name] — Neo4j & front-end implementation  
+- Matthew Orcutt and Bingze Qui — Neo4j & front-end implementation  
 - Team Project — Public Transit Data Platform
 
 ## License
